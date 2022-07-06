@@ -6,3 +6,6 @@
 
 # 4. for using pipenv env : pipenv shell
 
+# 5. type nul > REAME.md
+
+# 6. type nul > .gitignore
