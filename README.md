@@ -24,7 +24,13 @@
 
 # 3. Migration
 
-1. python manage.py makemigration
+1. edit application models.py
+
+2. edit settings.py PROJECT_APPS
+
+3. add settings.py Constant
+
+4. python manage.py makemigration
 
 
 # 4. Add Application
